@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "apple_iphone.jpg",
+    "image": "https://i.ibb.co/BzfhBdY/iphone-13-pro-review-dan-baker-35.jpg",
     "name": "iPhone 13 Pro",
     "brand": "Apple",
     "type": "Phone",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "macbook_pro.jpg",
+    "image": "https://i.ibb.co/yVmPLyV/hero-intro-endframe-e6khcva4hkeq-large.jpg",
     "name": "MacBook Pro",
     "brand": "Apple",
     "type": "Laptop",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "airpods.jpg",
+    "image": "https://i.ibb.co/Nn6tPFC/Apple-Air-Pods-Pro-2nd-gen-hero-220907-jpg-news-app-ed.jpg",
     "name": "AirPods Pro",
     "brand": "Apple",
     "type": "Headphone",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "image": "ipad_air.jpg",
+    "image": "https://i.ibb.co/xMzZgph/ipad-air-overview-cahgij9otxua-og.png",
     "name": "iPad Air",
     "brand": "Apple",
     "type": "Tablet",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "image": "surface_pro.jpg",
+    "image": "https://i.ibb.co/W301rBH/pro7.jpg",
     "name": "Surface Pro 7",
     "brand": "Microsoft",
     "type": "Laptop",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "image": "xbox_series_x.jpg",
+    "image": "https://i.ibb.co/WnYvPFz/xboxseriesx.jpg",
     "name": "Xbox Series X",
     "brand": "Microsoft",
     "type": "Gaming Console",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "image": "microsoft_mouse.jpg",
+    "image": "https://i.ibb.co/VJcNQHX/513baj-XLb8-L.jpg",
     "name": "Microsoft Ergonomic Mouse",
     "brand": "Microsoft",
     "type": "Mouse",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "image": "surface_book.jpg",
+    "image": "https://i.ibb.co/1TTknq5/surface-book-3-01.jpg",
     "name": "Microsoft Surface Book 3",
     "brand": "Microsoft",
     "type": "Laptop",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "image": "pixel_6.jpg",
+    "image": "https://i.ibb.co/sH3JJh5/E1hy-Fy6-WQAEp-JPV.jpg",
     "name": "Google Pixel 6",
     "brand": "Google",
     "type": "Phone",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "image": "chromebook.jpg",
+    "image": "https://i.ibb.co/L0QtHzq/two-arrows-2.jpg",
     "name": "Chromebook Pixel",
     "brand": "Google",
     "type": "Laptop",
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "image": "google_home.jpg",
+    "image": "https://i.ibb.co/GHMjnKq/s-l1200.webp",
     "name": "Google Home Mini",
     "brand": "Google",
     "type": "Smart Speaker",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "image": "google_nest_cam.jpg",
+    "image": "https://i.ibb.co/ykJBnDF/Nest-Camwired-Colors-Snow-Sand-Maple-Linen-Fog4x5.jpg",
     "name": "Google Nest Cam",
     "brand": "Google",
     "type": "Security Camera",
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "image": "playstation_5.jpg",
+    "image": "https://i.ibb.co/r0m2Tn0/Ps5-models.jpg",
     "name": "PlayStation 5",
     "brand": "Sony",
     "type": "Gaming Console",
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "image": "sony_tv.jpg",
+    "image": "https://i.ibb.co/hDxbCQM/sony-bravia-kd-55x80j-55-inch-4k-uhd-smart-led-tv-4-600x500h-jpg.webp",
     "name": "Sony 4K Smart TV",
     "brand": "Sony",
     "type": "TV",
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "image": "sony_headphones.jpg",
+    "image": "https://i.ibb.co/mtzK0m5/3.jpg",
     "name": "Sony WH-1000XM4",
     "brand": "Sony",
     "type": "Headphones",
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "image": "sony_camera.jpg",
+    "image": "https://i.ibb.co/bRhHHGj/IMG-0039-acr.jpg",
     "name": "Sony Alpha A7 III",
     "brand": "Sony",
     "type": "Camera",
