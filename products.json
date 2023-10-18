@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "image": "apple_iphone.jpg",
+    "name": "iPhone 13 Pro",
+    "brand": "Apple",
+    "type": "Phone",
+    "price": 999,
+    "rating": 4.5,
+    "description": "The iPhone 13 Pro is a premium smartphone from Apple, known for its cutting-edge technology and sleek design. With a powerful A15 Bionic chip, advanced camera system, and a stunning Super Retina XDR display, it's a top choice for those who demand the best in mobile technology."
+  },
+  {
+    "id": 2,
+    "image": "macbook_pro.jpg",
+    "name": "MacBook Pro",
+    "brand": "Apple",
+    "type": "Laptop",
+    "price": 1499,
+    "rating": 4.7,
+    "description": "The MacBook Pro is Apple's flagship laptop, designed for professionals and power users. It boasts impressive performance, a high-resolution Retina display, and the convenience of macOS. It's ideal for creative work, coding, and more."
+  },
+  {
+    "id": 3,
+    "image": "airpods.jpg",
+    "name": "AirPods Pro",
+    "brand": "Apple",
+    "type": "Headphone",
+    "price": 199,
+    "rating": 4.6,
+    "description": "AirPods Pro is Apple's premium wireless earbuds, offering active noise cancellation for an immersive audio experience. These earbuds deliver high-quality sound and a comfortable fit, making them perfect for on-the-go listening."
+  },
+  {
+    "id": 4,
+    "image": "ipad_air.jpg",
+    "name": "iPad Air",
+    "brand": "Apple",
+    "type": "Tablet",
+    "price": 499,
+    "rating": 4.6,
+    "description": "The iPad Air is a versatile tablet from Apple, offering a balance of performance and portability. With its powerful A-series chip and a large, high-resolution display, it's great for both work and entertainment."
+  },
+  {
+    "id": 5,
+    "image": "surface_pro.jpg",
+    "name": "Surface Pro 7",
+    "brand": "Microsoft",
+    "type": "Laptop",
+    "price": 899,
+    "rating": 4.4,
+    "description": "The Surface Pro 7 by Microsoft is a versatile 2-in-1 laptop/tablet designed for productivity and creativity. It features a detachable keyboard and stylus support, making it an excellent choice for professionals on the go."
+  },
+  {
+    "id": 6,
+    "image": "xbox_series_x.jpg",
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "type": "Gaming Console",
+    "price": 499,
+    "rating": 4.8,
+    "description": "The Xbox Series X is Microsoft's next-generation gaming console, known for its powerful hardware and impressive gaming capabilities. With high-quality graphics and a vast library of games, it's a gaming enthusiast's dream."
+  },
+  {
+    "id": 7,
+    "image": "microsoft_mouse.jpg",
+    "name": "Microsoft Ergonomic Mouse",
+    "brand": "Microsoft",
+    "type": "Mouse",
+    "price": 29,
+    "rating": 4.5,
+    "description": "The Microsoft Ergonomic Mouse is designed for comfortable and precise navigation. Its ergonomic shape reduces wrist strain, making it an ideal choice for those who spend long hours on their computers."
+  },
+  {
+    "id": 8,
+    "image": "surface_book.jpg",
+    "name": "Microsoft Surface Book 3",
+    "brand": "Microsoft",
+    "type": "Laptop",
+    "price": 1299,
+    "rating": 4.6,
+    "description": "The Microsoft Surface Book 3 is a high-performance laptop with a detachable touchscreen that can be used as a tablet. It's perfect for professionals who require both portability and power for demanding tasks."
+  },
+  {
+    "id": 9,
+    "image": "pixel_6.jpg",
+    "name": "Google Pixel 6",
+    "brand": "Google",
+    "type": "Phone",
+    "price": 799,
+    "rating": 4.6,
+    "description": "The Google Pixel 6 is a flagship smartphone that runs on pure Android, providing a clean and user-friendly experience. It's known for its exceptional camera performance and fast software updates."
+  },
+  {
+    "id": 10,
+    "image": "chromebook.jpg",
+    "name": "Chromebook Pixel",
+    "brand": "Google",
+    "type": "Laptop",
+    "price": 699,
+    "rating": 4.3,
+    "description": "The Chromebook Pixel is a premium laptop from Google that runs on Chrome OS. It's perfect for users who prefer a cloud-based computing experience and a lightweight, sleek design."
+  },
+  {
+    "id": 11,
+    "image": "google_home.jpg",
+    "name": "Google Home Mini",
+    "brand": "Google",
+    "type": "Smart Speaker",
+    "price": 49,
+    "rating": 4.2,
+    "description": "The Google Home Mini is a compact and affordable smart speaker with built-in Google Assistant. It can play music, answer questions, control smart home devices, and more."
+  },
+  {
+    "id": 12,
+    "image": "google_nest_cam.jpg",
+    "name": "Google Nest Cam",
+    "brand": "Google",
+    "type": "Security Camera",
+    "price": 199,
+    "rating": 4.4,
+    "description": "The Google Nest Cam is a versatile home security camera with features like motion detection and remote monitoring. It helps you keep an eye on your home and loved ones from anywhere."
+  },
+  {
+    "id": 13,
+    "image": "playstation_5.jpg",
+    "name": "PlayStation 5",
+    "brand": "Sony",
+    "type": "Gaming Console",
+    "price": 499,
+    "rating": 4.9,
+    "description": "The PlayStation 5, or PS5, is Sony's latest gaming console, known for its powerful hardware and a vast library of games. It offers stunning graphics and fast load times, providing an immersive gaming experience."
+  },
+  {
+    "id": 14,
+    "image": "sony_tv.jpg",
+    "name": "Sony 4K Smart TV",
+    "brand": "Sony",
+    "type": "TV",
+    "price": 799,
+    "rating": 4.7,
+    "description": "The Sony 4K Smart TV offers a stunning 4K display and smart features for streaming and content access. It's designed to deliver excellent picture quality and an immersive viewing experience."
+  },
+  {
+    "id": 15,
+    "image": "sony_headphones.jpg",
+    "name": "Sony WH-1000XM4",
+    "brand": "Sony",
+    "type": "Headphones",
+    "price": 349,
+    "rating": 4.8,
+    "description": "The Sony WH-1000XM4 headphones are renowned for their industry-leading noise-canceling technology and high-quality sound. They are comfortable for extended use and perfect for audiophiles."
+  },
+  {
+    "id": 16,
+    "image": "sony_camera.jpg",
+    "name": "Sony Alpha A7 III",
+    "brand": "Sony",
+    "type": "Camera",
+    "price": 1999,
+    "rating": 4.0,
+    "description": "The Sony Alpha A7 III is a professional-grade mirrorless camera, known for its exceptional image quality, speed, and versatility. It's a top choice for photographers and videographers who demand precision and creativity in their work."
+  }
+]

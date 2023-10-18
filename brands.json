@@ -1,0 +1,221 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "products": [
+      {
+        "id": 1,
+        "image": "apple_iphone.jpg",
+        "name": "iPhone 13 Pro",
+        "brand": "Apple",
+        "type": "Phone",
+        "price": 999,
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "image": "macbook_pro.jpg",
+        "name": "MacBook Pro",
+        "brand": "Apple",
+        "type": "Laptop",
+        "price": 1499,
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "image": "airpods.jpg",
+        "name": "AirPods Pro",
+        "brand": "Apple",
+        "type": "Headphone",
+        "price": 199,
+        "rating": 4.6
+      },
+      {
+        "id": 4,
+        "image": "ipad_air.jpg",
+        "name": "iPad Air",
+        "brand": "Apple",
+        "type": "Tablet",
+        "price": 499,
+        "rating": 4.6
+      }
+    ],
+    "advertisements": ["apple_ad_1.jpg", "apple_ad_2.jpg", "apple_ad_3.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Microsoft",
+    "products": [
+      {
+        "id": 5,
+        "image": "surface_pro.jpg",
+        "name": "Surface Pro 7",
+        "brand": "Microsoft",
+        "type": "Laptop",
+        "price": 899,
+        "rating": 4.4
+      },
+      {
+        "id": 6,
+        "image": "xbox_series_x.jpg",
+        "name": "Xbox Series X",
+        "brand": "Microsoft",
+        "type": "Gaming Console",
+        "price": 499,
+        "rating": 4.8
+      },
+      {
+        "id": 7,
+        "image": "microsoft_mouse.jpg",
+        "name": "Microsoft Ergonomic Mouse",
+        "brand": "Microsoft",
+        "type": "Mouse",
+        "price": 29,
+        "rating": 4.5
+      },
+      {
+        "id": 8,
+        "image": "surface_book.jpg",
+        "name": "Microsoft Surface Book 3",
+        "brand": "Microsoft",
+        "type": "Laptop",
+        "price": 1299,
+        "rating": 4.6
+      }
+    ],
+    "advertisements": [
+      "microsoft_ad_1.jpg",
+      "microsoft_ad_2.jpg",
+      "microsoft_ad_3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Google",
+    "products": [
+      {
+        "id": 9,
+        "image": "pixel_6.jpg",
+        "name": "Google Pixel 6",
+        "brand": "Google",
+        "type": "Phone",
+        "price": 799,
+        "rating": 4.6
+      },
+      {
+        "id": 10,
+        "image": "chromebook.jpg",
+        "name": "Chromebook Pixel",
+        "brand": "Google",
+        "type": "Laptop",
+        "price": 699,
+        "rating": 4.3
+      },
+      {
+        "id": 11,
+        "image": "google_home.jpg",
+        "name": "Google Home Mini",
+        "brand": "Google",
+        "type": "Smart Speaker",
+        "price": 49,
+        "rating": 4.2
+      },
+      {
+        "id": 12,
+        "image": "google_nest_cam.jpg",
+        "name": "Google Nest Cam",
+        "brand": "Google",
+        "type": "Security Camera",
+        "price": 199,
+        "rating": 4.4
+      }
+    ],
+    "advertisements": ["google_ad_1.jpg", "google_ad_2.jpg", "google_ad_3.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Sony",
+    "products": [
+      {
+        "id": 13,
+        "image": "playstation_5.jpg",
+        "name": "PlayStation 5",
+        "brand": "Sony",
+        "type": "Gaming Console",
+        "price": 499,
+        "rating": 4.9
+      },
+      {
+        "id": 14,
+        "image": "sony_tv.jpg",
+        "name": "Sony 4K Smart TV",
+        "brand": "Sony",
+        "type": "TV",
+        "price": 799,
+        "rating": 4.7
+      },
+      {
+        "id": 15,
+        "image": "sony_headphones.jpg",
+        "name": "Sony WH-1000XM4",
+        "brand": "Sony",
+        "type": "Headphones",
+        "price": 349,
+        "rating": 4.8
+      },
+      {
+        "id": 16,
+        "image": "sony_camera.jpg",
+        "name": "Sony Alpha A7 III",
+        "brand": "Sony",
+        "type": "Camera",
+        "price": 1999,
+        "rating": 4
+      }
+    ],
+    "advertisements": ["sony_ad_1.jpg", "sony_ad_2.jpg", "sony_ad_3.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Intel",
+    "products": [
+      {
+        "id": 17,
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-12th-gen-alder-lake-core-11635852915.webp",
+        "name": "Intel Core i9-12900K",
+        "brand": "Intel",
+        "type": "CPU",
+        "price": 399,
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "image": "intel_i7.jpg",
+        "name": "Intel Core i7-11700K",
+        "brand": "Intel",
+        "type": "CPU",
+        "price": 349,
+        "rating": 4.7
+      },
+      {
+        "id": 19,
+        "image": "intel_nuc.jpg",
+        "name": "Intel NUC 10",
+        "brand": "Intel",
+        "type": "Mini PC",
+        "price": 499,
+        "rating": 4.5
+      },
+      {
+        "id": 20,
+        "image": "intel_ssd.jpg",
+        "name": "Intel SSD 660p",
+        "brand": "Intel",
+        "type": "SSD",
+        "price": 79,
+        "rating": 4.6
+      }
+    ],
+    "advertisements": ["intel_ad_1.jpg", "intel_ad_2.jpg", "intel_ad_3.jpg"]
+  }
+]
