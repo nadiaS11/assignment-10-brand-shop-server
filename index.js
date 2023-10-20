@@ -29,6 +29,7 @@ async function run() {
       .db("productsDB")
       .collection("products");
     const cartCollection = await client.db("cartDB").collection("cart");
+    const emailCollection = await client.db("emailDB").collection("email");
 
     app.get("/products", async (req, res) => {
       const cursor = productCollection.find();
@@ -65,11 +66,20 @@ async function run() {
     //post to cart
     app.post("/cart", async (req, res) => {
       const cartItem = req.body;
-      console.log(cartItems);
+      console.log(cartItem);
 
       const result = await cartCollection.insertOne(cartItem);
-      res.send(result);
       console.log("added to cart");
+
+      res.send(result);
+    });
+
+    // send email to server
+    app.post("/emails", async (req, res) => {
+      const newEmail = req.body;
+      console.log(newEmail);
+      const result = await emailCollection.insertOne(newEmail);
+      res.send(result);
     });
 
     //single product for details
@@ -80,6 +90,14 @@ async function run() {
       res.send(result);
     });
 
+    app.get("/cart/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { _id: new ObjectId(id) };
+      const result = await cartCollection.findOne(query);
+      res.send(result);
+    });
+
+    //update a single product
     app.put("/products/:id", async (req, res) => {
       const id = req.params.id;
       const filter = { _id: new ObjectId(id) };
@@ -106,6 +124,15 @@ async function run() {
       console.log("updated successfully");
     });
 
+    //Delete from cart
+    app.delete("/cart/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { _id: new ObjectId(id) };
+      const result = await cartCollection.deleteOne(query);
+      res.send(result);
+      console.log("deleted", id);
+    });
+
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
     console.log(
@@ -123,5 +150,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("coffee server listening on port: ", port);
+  console.log("Brand shop server listening on port: ", port);
 });
